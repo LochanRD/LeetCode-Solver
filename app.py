@@ -4,7 +4,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-openai.api_key = "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"
+openai.api_key = "[YOUR_OPENAI_API_KEY]"
 
 st.title('LeetCode Solver')
 
